@@ -44675,7 +44675,7 @@ angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
     "app_id" : "au.edu.ozford.moodlemobile",
-    "appname": "Ozford's Moodle App",
+    "appname": "Ozfordhe's Moodle App",
     "versioncode" : "2016",
     "versionname" : "3.1.3",
     "cache_expiration_time" : 300000,
@@ -44685,7 +44685,7 @@ angular.module('mm.core')
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://lms.ozford.edu.au",
+    "siteurl": "http://he.ozford.edu.au",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false"
 }
